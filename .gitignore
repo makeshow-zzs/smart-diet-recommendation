@@ -1,0 +1,27 @@
+# 编译输出
+target/
+*.class
+
+# IDE 相关
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# 日志文件
+*.log
+
+# 打包文件
+*.jar
+*.war
+*.ear
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 数据库文件（如果使用本地文件数据库）
+*.db
+*.md
